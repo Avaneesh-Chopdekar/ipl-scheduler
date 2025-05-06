@@ -1,0 +1,282 @@
+[
+    {
+        "date": "Saturday, 22 March 2025",
+        "match": "Royal Challengers Bengaluru vs Delhi Capitals"
+    },
+    {
+        "date": "Sunday, 23 March 2025",
+        "match": "Punjab Kings vs Chennai Super Kings"
+    },
+    {
+        "date": "Sunday, 23 March 2025 (Second Match)",
+        "match": "Rajasthan Royals vs Lucknow Super Giants"
+    },
+    {
+        "date": "Monday, 24 March 2025",
+        "match": "Sunrisers Hyderabad vs Kolkata Knight Riders"
+    },
+    {
+        "date": "Tuesday, 25 March 2025",
+        "match": "Mumbai Indians vs Gujarat Titans"
+    },
+    {
+        "date": "Wednesday, 26 March 2025",
+        "match": "Delhi Capitals vs Royal Challengers Bengaluru"
+    },
+    {
+        "date": "Thursday, 27 March 2025",
+        "match": "Punjab Kings vs Lucknow Super Giants"
+    },
+    {
+        "date": "Friday, 28 March 2025",
+        "match": "Kolkata Knight Riders vs Chennai Super Kings"
+    },
+    {
+        "date": "Saturday, 29 March 2025",
+        "match": "Rajasthan Royals vs Mumbai Indians"
+    },
+    {
+        "date": "Sunday, 30 March 2025",
+        "match": "Sunrisers Hyderabad vs Gujarat Titans"
+    },
+    {
+        "date": "Monday, 31 March 2025",
+        "match": "Punjab Kings vs Delhi Capitals"
+    },
+    {
+        "date": "Tuesday, 01 April 2025",
+        "match": "Chennai Super Kings vs Kolkata Knight Riders"
+    },
+    {
+        "date": "Wednesday, 02 April 2025",
+        "match": "Royal Challengers Bengaluru vs Rajasthan Royals"
+    },
+    {
+        "date": "Thursday, 03 April 2025",
+        "match": "Gujarat Titans vs Lucknow Super Giants"
+    },
+    {
+        "date": "Friday, 04 April 2025",
+        "match": "Punjab Kings vs Sunrisers Hyderabad"
+    },
+    {
+        "date": "Saturday, 05 April 2025",
+        "match": "Chennai Super Kings vs Delhi Capitals"
+    },
+    {
+        "date": "Sunday, 06 April 2025",
+        "match": "Rajasthan Royals vs Kolkata Knight Riders"
+    },
+    {
+        "date": "Sunday, 06 April 2025 (Second Match)",
+        "match": "Mumbai Indians vs Royal Challengers Bengaluru"
+    },
+    {
+        "date": "Monday, 07 April 2025",
+        "match": "Lucknow Super Giants vs Gujarat Titans"
+    },
+    {
+        "date": "Tuesday, 08 April 2025",
+        "match": "Sunrisers Hyderabad vs Punjab Kings"
+    },
+    {
+        "date": "Wednesday, 09 April 2025",
+        "match": "Delhi Capitals vs Chennai Super Kings"
+    },
+    {
+        "date": "Thursday, 10 April 2025",
+        "match": "Kolkata Knight Riders vs Royal Challengers Bengaluru"
+    },
+    {
+        "date": "Friday, 11 April 2025",
+        "match": "Mumbai Indians vs Lucknow Super Giants"
+    },
+    {
+        "date": "Saturday, 12 April 2025",
+        "match": "Gujarat Titans vs Rajasthan Royals"
+    },
+    {
+        "date": "Sunday, 13 April 2025",
+        "match": "Delhi Capitals vs Punjab Kings"
+    },
+    {
+        "date": "Sunday, 13 April 2025 (Second Match)",
+        "match": "Chennai Super Kings vs Sunrisers Hyderabad"
+    },
+    {
+        "date": "Monday, 14 April 2025",
+        "match": "Royal Challengers Bengaluru vs Kolkata Knight Riders"
+    },
+    {
+        "date": "Tuesday, 15 April 2025",
+        "match": "Lucknow Super Giants vs Mumbai Indians"
+    },
+    {
+        "date": "Wednesday, 16 April 2025",
+        "match": "Rajasthan Royals vs Gujarat Titans"
+    },
+    {
+        "date": "Thursday, 17 April 2025",
+        "match": "Delhi Capitals vs Sunrisers Hyderabad"
+    },
+    {
+        "date": "Friday, 18 April 2025",
+        "match": "Punjab Kings vs Kolkata Knight Riders"
+    },
+    {
+        "date": "Saturday, 19 April 2025",
+        "match": "Royal Challengers Bengaluru vs Lucknow Super Giants"
+    },
+    {
+        "date": "Sunday, 20 April 2025",
+        "match": "Chennai Super Kings vs Rajasthan Royals"
+    },
+    {
+        "date": "Sunday, 20 April 2025 (Second Match)",
+        "match": "Gujarat Titans vs Mumbai Indians"
+    },
+    {
+        "date": "Monday, 21 April 2025",
+        "match": "Sunrisers Hyderabad vs Delhi Capitals"
+    },
+    {
+        "date": "Tuesday, 22 April 2025",
+        "match": "Kolkata Knight Riders vs Punjab Kings"
+    },
+    {
+        "date": "Wednesday, 23 April 2025",
+        "match": "Lucknow Super Giants vs Royal Challengers Bengaluru"
+    },
+    {
+        "date": "Thursday, 24 April 2025",
+        "match": "Chennai Super Kings vs Mumbai Indians"
+    },
+    {
+        "date": "Friday, 25 April 2025",
+        "match": "Delhi Capitals vs Rajasthan Royals"
+    },
+    {
+        "date": "Saturday, 26 April 2025",
+        "match": "Kolkata Knight Riders vs Gujarat Titans"
+    },
+    {
+        "date": "Sunday, 27 April 2025",
+        "match": "Lucknow Super Giants vs Sunrisers Hyderabad"
+    },
+    {
+        "date": "Sunday, 27 April 2025 (Second Match)",
+        "match": "Royal Challengers Bengaluru vs Punjab Kings"
+    },
+    {
+        "date": "Monday, 28 April 2025",
+        "match": "Mumbai Indians vs Chennai Super Kings"
+    },
+    {
+        "date": "Tuesday, 29 April 2025",
+        "match": "Rajasthan Royals vs Delhi Capitals"
+    },
+    {
+        "date": "Wednesday, 30 April 2025",
+        "match": "Gujarat Titans vs Kolkata Knight Riders"
+    },
+    {
+        "date": "Thursday, 01 May 2025",
+        "match": "Sunrisers Hyderabad vs Royal Challengers Bengaluru"
+    },
+    {
+        "date": "Friday, 02 May 2025",
+        "match": "Punjab Kings vs Mumbai Indians"
+    },
+    {
+        "date": "Saturday, 03 May 2025",
+        "match": "Delhi Capitals vs Lucknow Super Giants"
+    },
+    {
+        "date": "Sunday, 04 May 2025",
+        "match": "Chennai Super Kings vs Gujarat Titans"
+    },
+    {
+        "date": "Sunday, 04 May 2025 (Second Match)",
+        "match": "Kolkata Knight Riders vs Rajasthan Royals"
+    },
+    {
+        "date": "Monday, 05 May 2025",
+        "match": "Royal Challengers Bengaluru vs Sunrisers Hyderabad"
+    },
+    {
+        "date": "Tuesday, 06 May 2025",
+        "match": "Mumbai Indians vs Punjab Kings"
+    },
+    {
+        "date": "Wednesday, 07 May 2025",
+        "match": "Lucknow Super Giants vs Delhi Capitals"
+    },
+    {
+        "date": "Thursday, 08 May 2025",
+        "match": "Gujarat Titans vs Chennai Super Kings"
+    },
+    {
+        "date": "Friday, 09 May 2025",
+        "match": "Sunrisers Hyderabad vs Rajasthan Royals"
+    },
+    {
+        "date": "Saturday, 10 May 2025",
+        "match": "Kolkata Knight Riders vs Mumbai Indians"
+    },
+    {
+        "date": "Sunday, 11 May 2025",
+        "match": "Lucknow Super Giants vs Punjab Kings"
+    },
+    {
+        "date": "Monday, 12 May 2025",
+        "match": "Gujarat Titans vs Delhi Capitals"
+    },
+    {
+        "date": "Tuesday, 13 May 2025",
+        "match": "Royal Challengers Bengaluru vs Chennai Super Kings"
+    },
+    {
+        "date": "Wednesday, 14 May 2025",
+        "match": "Sunrisers Hyderabad vs Mumbai Indians"
+    },
+    {
+        "date": "Thursday, 15 May 2025",
+        "match": "Lucknow Super Giants vs Rajasthan Royals"
+    },
+    {
+        "date": "Friday, 16 May 2025",
+        "match": "Kolkata Knight Riders vs Delhi Capitals"
+    },
+    {
+        "date": "Saturday, 17 May 2025",
+        "match": "Chennai Super Kings vs Punjab Kings"
+    },
+    {
+        "date": "Sunday, 18 May 2025",
+        "match": "Gujarat Titans vs Sunrisers Hyderabad"
+    },
+    {
+        "date": "Sunday, 18 May 2025 (Second Match)",
+        "match": "Royal Challengers Bengaluru vs Mumbai Indians"
+    },
+    {
+        "date": "Tuesday, 20 May 2025",
+        "match": "Lucknow Super Giants vs Kolkata Knight Riders"
+    },
+    {
+        "date": "Wednesday, 21 May 2025",
+        "match": "Rajasthan Royals vs Punjab Kings"
+    },
+    {
+        "date": "Thursday, 22 May 2025",
+        "match": "Delhi Capitals vs Mumbai Indians"
+    },
+    {
+        "date": "Friday, 23 May 2025",
+        "match": "Sunrisers Hyderabad vs Chennai Super Kings"
+    },
+    {
+        "date": "Saturday, 24 May 2025",
+        "match": "Kolkata Knight Riders vs Lucknow Super Giants"
+    }
+]
